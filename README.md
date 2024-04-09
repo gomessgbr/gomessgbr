@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B5CF7&random=false&width=435&lines=+Salve%2C+eu+sou+o+Gabriel+Gomes)](https://git.io/typing-svg) 💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B5CF7&center=true&vCenter=true&random=false&width=435&lines=+Salve%2C+eu+sou+o+Gabriel+Gomes)](https://git.io/typing-svg) 💻
 
 
 
